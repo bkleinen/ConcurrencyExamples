@@ -1,0 +1,35 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConcurrencyExamples/ThreadExample-09-Tasks.cs">
+    <Files>
+      <File FileName="ConcurrencyExamples/Main.cs" Line="35" Column="33" />
+      <File FileName="ConcurrencyExamples/ThreadExample08-DeadLock.cs" Line="39" Column="21" />
+      <File FileName="ConcurrencyExamples/ThreadExample-09-Tasks.cs" Line="58" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="ConcurrencyExamples">
+            <Node name="References">
+              <Option id="ShowVersionControlOverlays" value="True" />
+              <Option id="ShowAllFiles" value="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="ConnectionManagerPad">
+        <State selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
